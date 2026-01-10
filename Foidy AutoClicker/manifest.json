@@ -1,7 +1,7 @@
 {
   "id": "autoclicker",
   "name": "Foidy AutoClicker",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "category": "Инструменты",
   "exe": "Foidy AutoClicker.exe",
   "description": "Лёгкий автокликер с гибкой настройкой интервалов, повторов и типов кликов.",
