@@ -6,5 +6,6 @@
   "exe": "FoidyRepairTool.exe",
   "description": "Утилита для быстрого восстановления и оптимизации системных функций Windows.",
   "author": "Foidy Technologies",
-  "minHubVersion": "1.0.0"
+  "minHubVersion": "1.0.0",
+  "url": "https://foidy.github.io/apps/repair-tool"
 }
