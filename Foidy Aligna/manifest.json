@@ -1,7 +1,7 @@
 {
   "id": "aligna",
   "name": "Foidy Aligna",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "category": "Инструменты",
   "exe": "FoidyAligna.exe",
   "description": "Инструмент для точного измерения расстояний, выравнивания элементов и подбора цвета прямо на экране.",
