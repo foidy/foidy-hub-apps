@@ -6,6 +6,6 @@
   "exe": "FoidySorter.exe",
   "description": "Инструмент для быстрой сортировки файлов и папок.",
   "author": "Foidy Technologies",
-  "minHubVersion": "1.1.0",
+  "minHubVersion": "1.2.0",
   "url": "https://foidy.github.io/apps/sorter"
 }

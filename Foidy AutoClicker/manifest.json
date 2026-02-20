@@ -6,6 +6,6 @@
   "exe": "Foidy AutoClicker.exe",
   "description": "Лёгкий автокликер с гибкой настройкой интервалов, повторов и типов кликов.",
   "author": "Foidy Technologies",
-  "minHubVersion": "1.1.0",
+  "minHubVersion": "1.2.0",
   "url": "https://foidy.github.io/apps/autoclicker"
 }
