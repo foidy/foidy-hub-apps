@@ -1,7 +1,7 @@
 {
   "id": "repairtool",
   "name": "Foidy Repair Tool",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "category": "Система",
   "exe": "FoidyRepairTool.exe",
   "description": "Утилита для быстрого восстановления и оптимизации системных функций Windows.",
