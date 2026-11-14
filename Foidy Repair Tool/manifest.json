@@ -2,10 +2,16 @@
   "id": "repairtool",
   "name": "Foidy Repair Tool",
   "version": "1.0.1",
-  "category": "Система",
+  "category": {
+    "ru": "Система",
+    "en": "System"
+  },
   "exe": "FoidyRepairTool.exe",
-  "description": "Утилита для быстрого восстановления и оптимизации системных функций Windows.",
+  "description": {
+    "ru": "Утилита для быстрого восстановления и оптимизации системных функций Windows.",
+    "en": "Utility for rapid recovery and optimization of Windows system functions."
+  },
   "author": "Foidy Technologies",
-  "minHubVersion": "1.2.0",
-  "url": "https://foidy.github.io/apps/repair-tool"
+  "min_hub_version": "1.2.0",
+  "url": "https://foidy.github.io/foidyhub/repair-tool"
 }

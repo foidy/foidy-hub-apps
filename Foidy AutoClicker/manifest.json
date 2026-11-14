@@ -3,9 +3,15 @@
   "name": "Foidy AutoClicker",
   "icon": "icon.ico",
   "version": "1.1.5",
-  "category": "Инструменты",
+  "category": {
+    "ru": "Инструменты",
+    "en": "Tools"
+  },
   "exe": "FoidyAutoClicker.exe",
-  "description": "Лёгкий автокликер с гибкой настройкой интервалов, повторов и типов кликов.",
+  "description": {
+    "ru": "Лёгкий автокликер с гибкой настройкой интервалов, повторов и типов кликов.",
+    "en": "Lightweight autoclicker with flexible interval configuration, repeat counts, and click types."
+  },
   "author": "Foidy Technologies",
   "min_hub_version": "1.0.0",
   "url": "https://foidy.github.io/apps/autoclicker"

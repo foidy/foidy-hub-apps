@@ -1,11 +1,18 @@
 {
   "id": "aligna",
   "name": "Foidy Aligna",
+  "icon": "icon.ico",
   "version": "1.1.0",
-  "category": "Инструменты",
+  "category": {
+    "ru": "Инструменты",
+    "en": "Tools"
+  },
   "exe": "FoidyAligna.exe",
-  "description": "Инструмент для точного измерения расстояний, выравнивания элементов и подбора цвета прямо на экране.",
+  "description": {
+    "ru": "Инструмент для точного измерения расстояний, выравнивания элементов и подбора цвета прямо на экране.",
+    "en": "Precision on-screen tool for measuring distances, aligning elements, and picking colors."
+  },
   "author": "Foidy Technologies",
-  "minHubVersion": "1.0.0",
+  "min_hub_version": "1.0.0",
   "url": "https://foidy.github.io/apps/aligna"
 }
