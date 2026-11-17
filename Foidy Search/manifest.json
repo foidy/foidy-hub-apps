@@ -1,0 +1,19 @@
+{
+  "id": "search",
+  "name": "Foidy Search",
+  "icon": "icon.ico",
+  "version": "1.0.0",
+  "category": {
+    "ru": "Система",
+    "en": "System"
+  },
+  "exe": "FoidySearch.exe",
+  "requires_admin": true,
+  "description": {
+    "ru": "Молниеносный локальный поиск файлов и папок на ПК",
+    "en": "Lightning-fast local file and folder search for PC"
+  },
+  "author": "foidy",
+  "min_hub_version": "1.0.0",
+  "url": "https://foidy.github.io/foidyhub/search"
+}

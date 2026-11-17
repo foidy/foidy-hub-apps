@@ -2,17 +2,17 @@
   "id": "autoclicker",
   "name": "Foidy AutoClicker",
   "icon": "icon.ico",
-  "version": "1.1.5",
+  "version": "1.0.0",
   "category": {
     "ru": "Инструменты",
     "en": "Tools"
   },
   "exe": "FoidyAutoClicker.exe",
   "description": {
-    "ru": "Лёгкий автокликер с гибкой настройкой интервалов, повторов и типов кликов.",
-    "en": "Lightweight autoclicker with flexible interval configuration, repeat counts, and click types."
+    "ru": "Удобный автокликер для мыши и клавиатуры с настройкой интервалов и повторов",
+    "en": "Convenient mouse and keyboard autoclicker with flexible intervals and repeat controls"
   },
-  "author": "Foidy Technologies",
+  "author": "foidy",
   "min_hub_version": "1.0.0",
-  "url": "https://foidy.github.io/apps/autoclicker"
+  "url": "https://foidy.github.io/foidyhub/autoclicker"
 }
